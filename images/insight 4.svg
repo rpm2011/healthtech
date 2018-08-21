@@ -1,0 +1,20 @@
+<svg id="Group_8" data-name="Group 8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 418 143">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f8f8fe;
+      }
+
+      .cls-2 {
+        font-size: 20px;
+        font-family: Avenir-Heavy, Avenir;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(0 23)">
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-1" width="418" height="120" rx="24"/>
+    <text id="_I_ve_been_to_West_P" data-name="“I’ve been to West P" class="cls-2" transform="translate(50 31)"><tspan x="0" y="20">“I’ve been to West Penn before, so </tspan><tspan x="0" y="50.6">I’ll go there again.”</tspan></text>
+  </g>
+  <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="32" height="32" transform="translate(196.627 0) rotate(45)"/>
+</svg>

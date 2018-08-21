@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1168 992" style="enable-background:new 0 0 1168 992;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4F54FF;}
+	.st1{font-family:'Arial-BoldMT';}
+	.st2{font-size:28px;}
+	.st3{fill:#F9CD17;}
+	.st4{font-family:'Avenir-Medium';}
+	.st5{fill:none;}
+</style>
+<title>Group 2</title>
+<desc>Created with Sketch.</desc>
+<g id="presentation">
+	<g id="Desktop-HD" transform="translate(-101.000000, -41.000000)">
+		<g id="Group-2" transform="translate(101.000000, 42.000000)">
+			<g id="Group-4" transform="translate(579.000000, 0.000000)">
+				<path id="Line" class="st0" d="M0,990.5l9.5-19h-19L0,990.5z M0-0.5l-9.5,19h19L0-0.5z M1.5,973V17v-1.5h-3V17v956v1.5h3V973z"
+					/>
+				<text transform="matrix(1 0 0 1 31 24)" class="st0 st1 st2">Digital</text>
+				<text transform="matrix(1 0 0 1 31 981)" class="st0 st1 st2">Physical</text>
+			</g>
+			<g id="Group-3" transform="translate(0.000000, 481.000000)">
+				<path id="Line_1_" class="st0" d="M84,0.2l19,9.5v-19L84,0.2z M1075,0.2l-19-9.5v19L1075,0.2z M101.5,1.8h956h1.5v-3h-1.5h-956
+					H100v3H101.5z"/>
+				<text transform="matrix(1 0 0 1 0 47)" class="st0 st1 st2">Seconds</text>
+				<text transform="matrix(1 0 0 1 989 47)" class="st0 st1 st2">Minutes</text>
+			</g>
+			<g id="Group" transform="translate(345.000000, 180.000000)">
+				<circle id="Oval" class="st3" cx="38" cy="29" r="29"/>
+				<text transform="matrix(1 0 0 1 0 96)" class="st4 st2">Slider</text>
+			</g>
+			<g id="Group_1_" transform="translate(179.000000, 180.000000)">
+				<circle id="Oval_1_" class="st3" cx="55" cy="29" r="29"/>
+				<text transform="matrix(1 0 0 1 35.288 96)" class="st4 st2">Flu </text>
+				<text transform="matrix(1 0 0 1 0.316 134)" class="st4 st2">Monster</text>
+			</g>
+			<g id="Group_2_" transform="translate(247.000000, 355.000000)">
+				<circle id="Oval_2_" class="st3" cx="116" cy="29" r="29"/>
+				<text transform="matrix(1 0 0 1 0 96)" class="st4 st2">Conditional Trivia</text>
+			</g>
+			<g id="Group_3_" transform="translate(635.000000, 91.000000)">
+				<circle id="Oval_3_" class="st3" cx="76" cy="29" r="29"/>
+				<text transform="matrix(1 0 0 1 4.446 96)" class="st4 st2">Remember </text>
+				<text transform="matrix(1 0 0 1 10.928 134)" class="st4 st2">That Time</text>
+			</g>
+			<g id="Group_4_" transform="translate(860.000000, 91.000000)">
+				<circle id="Oval_4_" class="st3" cx="53" cy="29" r="29"/>
+				<text transform="matrix(1 0 0 1 4.518 96)" class="st4 st2">Defend </text>
+				<text transform="matrix(1 0 0 1 7.374 134)" class="st4 st2">The ER</text>
+			</g>
+			<g id="Group_5_" transform="translate(237.000000, 664.000000)">
+				<circle id="Oval_5_" class="st3" cx="50" cy="29" r="29"/>
+				<text transform="matrix(1 0 0 1 0.188 96)" class="st4 st2">Live Gif</text>
+			</g>
+			<g id="Group_6_" transform="translate(524.000000, 706.000000)">
+				<circle id="Oval_6_" class="st3" cx="55" cy="29" r="29"/>
+				<text transform="matrix(1 0 0 1 0.32 96)" class="st4 st2">The Sneeze</text>
+			</g>
+		</g>
+		<polygon class="st5" points="747,62 819,62 819,62 747,62 		"/>
+	</g>
+</g>
+</svg>

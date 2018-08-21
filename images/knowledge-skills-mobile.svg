@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214.434 312.823">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 13px;
+        font-family: Avenir-Heavy, Avenir;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+        font-family: Avenir-Light, Avenir;
+        font-weight: 300;
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #4f54ff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="mobile-knowledge-skills" transform="translate(-21.714 -5030)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="206.434" height="121.823" transform="translate(21.714 5066)"/>
+    <text id="Original_Prompt" data-name="Original Prompt" class="cls-2" transform="translate(35 5043)"><tspan x="0" y="0">Knowledge Components</tspan></text>
+    <text id="Design_a_solution_th" data-name="Design a solution th" class="cls-3" transform="translate(39 5087)"><tspan x="0" y="12">Types of facilities </tspan><tspan x="0" y="35.4">Proximity to facilities</tspan><tspan x="0" y="58.8">Facility Cost Differences </tspan><tspan x="0" y="82.2">In-Network vs Out-of-Network</tspan></text>
+    <g id="Rectangle_3-2" data-name="Rectangle 3" class="cls-4" transform="translate(29.714 5074)">
+      <rect class="cls-5" width="206.434" height="121.823"/>
+      <rect class="cls-6" x="1" y="1" width="204.434" height="119.823"/>
+    </g>
+    <rect id="Rectangle_3-3" data-name="Rectangle 3" class="cls-1" width="206.434" height="70.823" transform="translate(21.714 5264)"/>
+    <text id="Original_Prompt-2" data-name="Original Prompt" class="cls-2" transform="translate(35 5241)"><tspan x="0" y="0">Skill Components</tspan></text>
+    <text id="Design_a_solution_th-2" data-name="Design a solution th" class="cls-3" transform="translate(39 5282)"><tspan x="0" y="12">Assessing Condition Type</tspan><tspan x="0" y="35.4">Assessing Severity Level</tspan></text>
+    <g id="Rectangle_3-4" data-name="Rectangle 3" class="cls-4" transform="translate(29.714 5272)">
+      <rect class="cls-5" width="206.434" height="70.823"/>
+      <rect class="cls-6" x="1" y="1" width="204.434" height="68.823"/>
+    </g>
+  </g>
+</svg>

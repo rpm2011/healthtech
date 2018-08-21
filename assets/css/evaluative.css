@@ -1,0 +1,77 @@
+.metric-title {
+    font-weight: bold;
+    font-size: 1.2em
+}
+.metric-exp {
+    font-size: 1em;
+}
+.metric-ilb {
+    position: relative;
+    top: -20px;
+    padding-left: 20px;
+    width: 70%;
+}
+#character-section {
+    background-color: #F8F8FE;
+}
+.right-img {
+    float: right;
+}
+.bolded-section {
+    font-weight: bold;
+    font-size: 1.4em;
+}
+.note-row {
+    padding-top: 5%;
+}
+.yellow {
+    padding-left: 10%;
+}
+.test-icon {
+    width: 25%;
+}
+.test-content {
+    padding-top: 10%;
+}
+.test-title {
+    padding-top: 5%;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+.test-paragraph {
+    padding-top: 5%;
+}
+.fitp-icon {
+    max-width: 6em;
+}
+
+@media screen and (max-width: 769px) {
+.test-icon {
+    float: left;
+}
+.test-title {
+    float: left;
+    padding-left: 20px;
+    padding-top: 25px
+}
+.test-paragraph {
+    clear: left;
+}
+.banner-evaluative {
+    background-image: url("../../images/evaluative-modile.svg")
+}
+.fitp-icon {
+    max-width: 3em;
+    vertical-align: top;
+}
+.metric-ilb {
+    top: -0;
+}
+.yellow {
+    padding-left: 0;
+}
+.button.special {
+    margin: 0 auto 2em auto !important;
+    width: 90%;
+}
+}

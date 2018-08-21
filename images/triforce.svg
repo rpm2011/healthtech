@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="577px" height="482px" viewBox="0 0 577 482" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-3" transform="translate(-717.000000, -1739.000000)">
+            <g id="Group-5" transform="translate(720.000000, 1742.000000)">
+                <g id="Group-3">
+                    <circle id="Oval-3" stroke="#4F54FF" stroke-width="5" cx="279" cy="159" r="159"></circle>
+                    <circle id="Oval-3" stroke="#4F54FF" stroke-width="5" cx="159" cy="317" r="159"></circle>
+                    <circle id="Oval-3" stroke="#4F54FF" stroke-width="5" cx="412" cy="317" r="159"></circle>
+                    <path d="M285.302469,222 C272.710601,241.044477 264.68591,255.384726 261.228395,265.020747 C257.77088,274.656768 254.694748,291.254279 252,314.813278 C266.711934,316.937759 277.812757,318 285.302469,318 C292.792181,318 303.358025,316.937759 317,314.813278 C314.64346,291.94925 311.701073,275.351739 308.17284,265.020747 C304.644606,254.689755 297.021149,240.349506 285.302469,222 Z" id="Path-2" fill="#4F54FF"></path>
+                </g>
+                <text id="Persuasive-Design-Pr" font-family="Avenir-Heavy, Avenir" font-size="17" font-weight="600" line-spacing="30.6000004" fill="#000000">
+                    <tspan x="204.0645" y="83">Persuasive Design </tspan>
+                    <tspan x="237.886" y="113.6">Principles</tspan>
+                </text>
+                <text id="Knowledge-+-Skill-Co" font-family="Avenir-Heavy, Avenir" font-size="17" font-weight="600" line-spacing="30.6000004" fill="#000000">
+                    <tspan x="69.903" y="336">Knowledge + Skill </tspan>
+                    <tspan x="91.34" y="366.6">Components</tspan>
+                </text>
+                <text id="Gamification-Techniq" font-family="Avenir-Heavy, Avenir" font-size="17" font-weight="600" line-spacing="30.6000004" fill="#000000">
+                    <tspan x="377.935" y="336">Gamification </tspan>
+                    <tspan x="383.29" y="366.6">Techniques</tspan>
+                    <tspan x="428" y="457.200001"></tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

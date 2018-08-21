@@ -1,0 +1,269 @@
+.pdp-title {
+    font-weight: bold;
+    padding: 20px;
+    display: inline-block;
+    width: 50%;
+    position: relative;
+    top: -40px;
+}
+.pdp-section {
+    width: 33%;
+}
+#triforce-text {
+    font-size: 1.7em;
+    font-weight: bold;
+    line-height: 1.5em;
+    width: 50%;
+}
+#mem {
+    padding-top: 70px;
+}
+#section-text {
+    font-size: 1.2em;
+    line-height: 1.3em;
+}
+#slider-text {
+    position: relative;
+    left: 50%;
+}
+.banner-product {
+    background-color: lightgray !important;
+    background-image: url("../../images/confetti.svg") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    box-shadow: none !important;
+}
+#ktext {
+    font-size: 1.3em;
+}
+#conditional-trivia {
+    background-image: url("../../images/trivia-png.png");
+    background-repeat: no-repeat;
+}
+#seasonal-wellness {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-image: url("../../images/seasonal%20prompt.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+#slider {
+    background-image: url("../../images/slider.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 40%;
+}
+#rtt {
+    background-image: url("../../images/rememberThatTime.svg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 40%;
+}
+#dter {
+    background-image: url("../../images/defendTheER.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 40%;
+}
+#live-gif {
+    background-image: url("../../images/the%20sneeze%20bg.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+#sneeze {
+    background-image: url("../../images/live%20gif%20bg.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+#conditional-trivia-text {
+    position: relative;
+    left: 50%;
+}
+#sneeze-text {
+    position: relative;
+    left: 50%;
+}
+#dter-text {
+    position: relative;
+    left: 50%;
+}
+.prototype-title {
+    text-align: left;
+    padding-bottom: 5%;
+    margin-bottom: 0%;/*
+  line-height: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+*/
+}
+.prototype-name {
+    font-size: 1.4em;
+    padding-bottom: 5%;
+}
+.prototype-answer {
+    float: left;
+    padding-left: 10px;
+}
+.prototype-header {
+    float: left;
+    font-weight: lighter;
+    color: #b5b5b5;
+}
+.prototype-info-line {
+    clear: left;
+}
+.prototype-description {
+    padding-top: 10%;
+    clear: left;
+    padding-bottom: 10%;
+}
+.prototype-link {
+    color: #4F54FF;
+    text-decoration: underline;
+    padding-top: 10%;
+}
+#quiz-image-row {
+    padding-top: 10%;
+}
+.quiz-img {
+    width: 100%;
+}
+.short {
+    padding-top: 43%;
+}
+.img-caption {
+    text-align: center;
+    font-size: .8em;
+}
+.concept-video {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    width: 60%;
+}
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.concept-gif {
+    width: 80%;
+    height: auto;
+}
+.data-title {
+    float: left;
+    padding-left: 20px;
+    padding-top: 3%;
+}
+.data-text {
+    padding-left: 20px;
+}
+.recommendation {
+    margin-top: 2em !important;
+    margin-bottom: -3em !important;
+}
+
+@media screen and (max-width: 769px) {
+#triforce-text {
+    width: 100%;
+    font-size: 1.4em;
+    line-height: 1.8em;
+    padding-top: 0;
+}
+#versatility-text {
+    padding-top: 0;
+}
+#conditional-trivia {
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: left top;
+}
+#conditional-trivia-text {
+    left: 0;
+    padding-top: 140vw;
+}
+#dter-text {
+    left: 0;
+    padding-top: 100vw;
+}
+#slider-text {
+    left: 0;
+    padding-top: 70vw;
+}
+#live-gif {
+    background-size: 95%;
+    background-position: right top;
+}
+#live-gif-text {
+    padding-top: 70vw;
+}
+#sneeze {
+    background-size: 95%;
+    background-position: left top;
+}
+#sneeze-text {
+    left: 0;
+    padding-top: 80vw;
+}
+.button.special {
+    width: 100%;
+}
+.quiz-img {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+}
+.short {
+    width: 100%;
+}
+#seasonal-wellness {
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: right top;
+}
+#slider {
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: left top;
+}
+#dter {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center top;
+}
+#seasonal-wellness-bg {
+    padding-top: 0;
+}
+#seasonal-wellness-text {
+    padding-top: 110vw;
+}
+.concept-video {
+    width: 100%;
+}
+.concept-gif {
+    width: 100%;
+}
+#rtt {
+    background-size: 100%;
+    background-position: center top;
+}
+#rtt-text {
+    padding-top: 70vw;
+}
+.recommendation {
+    margin-top: 3em !important;
+    margin-bottom: 0 !important;
+}
+}

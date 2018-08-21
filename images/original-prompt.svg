@@ -1,0 +1,40 @@
+<svg id="original-prompt" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 611 326">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 22px;
+        font-family: Avenir-Book, Avenir;
+      }
+
+      .cls-3 {
+        fill: #4f54ff;
+        font-family: Avenir-Heavy, Avenir;
+        font-weight: 800;
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #4f54ff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="584" height="303" transform="translate(27)"/>
+  <text id="Research_design_an" data-name="Research, design, an" class="cls-2" transform="translate(85 54)"><tspan x="0" y="22">Research, design, and prototype </tspan><tspan class="cls-3" y="22">a patient-</tspan><tspan class="cls-3" x="0" y="61.6">centric mobile application</tspan><tspan y="61.6" xml:space="preserve"> that targets adults </tspan><tspan x="0" y="101.2">ages 18 to 54, provides information about </tspan><tspan x="0" y="140.8">healthcare providers, and maximizes the </tspan><tspan x="0" y="180.4">volume of appropriate care facility use. </tspan></text>
+  <g id="Rectangle_15" data-name="Rectangle 15" class="cls-4" transform="translate(0 9)">
+    <rect class="cls-5" width="595" height="317"/>
+    <rect class="cls-6" x="1.5" y="1.5" width="592" height="314"/>
+  </g>
+</svg>

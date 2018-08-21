@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 574 489">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #4f54ff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Avenir-Heavy, Avenir;
+        font-weight: 800;
+      }
+
+      .cls-4 {
+        font-size: 28px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="knowledge" transform="translate(-114 -355)">
+    <g id="Group_20" data-name="Group 20" transform="translate(114 425)">
+      <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-1" width="531" height="385"/>
+      <g id="Rectangle_5-2" data-name="Rectangle 5" class="cls-2" transform="translate(43 34)">
+        <rect class="cls-5" width="531" height="385"/>
+        <rect class="cls-6" x="1.5" y="1.5" width="528" height="382"/>
+      </g>
+      <text id="Types_of_facilities" data-name="Types of facilities" class="cls-3" transform="translate(115 132)"><tspan x="0" y="0">Types of facilities </tspan><tspan x="0" y="48">Proximity to facilities</tspan><tspan x="0" y="96">Facility Cost Differences </tspan><tspan x="0" y="144">In-Network vs Out-of-Network</tspan><tspan x="0" y="192"></tspan></text>
+    </g>
+    <text id="Knowledge_Components" data-name="Knowledge Components" class="cls-4" transform="translate(239 383)"><tspan x="0" y="0">Knowledge Components</tspan></text>
+  </g>
+</svg>
