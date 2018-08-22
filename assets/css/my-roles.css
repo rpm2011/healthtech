@@ -1,0 +1,17 @@
+
+.role {
+	padding: 1em 0 2em 3em;
+}
+.role-title {
+    color: #4F54FF;
+	font-weight: 700;
+	display: inline;
+	line-height: 30px;
+	vertical-align: top;
+	position: relative;
+	top: 2px;
+	padding-left: 1em;
+}
+.role-icon {
+	max-width: 30px;
+}

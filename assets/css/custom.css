@@ -136,6 +136,10 @@ a:hover, a:focus {
 }
 .gray-section-title {
     color: #D1D1D1;
+    margin-bottom: 0.5em;
+}
+.darkgray-section-title {
+    color: #b4b4b4;
     margin-bottom: 0;
 }
 .pink-section-title {
@@ -253,7 +257,7 @@ i {
     margin: 0;
 }
 .banner-text {
-    padding: 0 5em 0 5em
+    padding: 0 4em 0 4em
 }
 .blurb {
     padding-top: 10px;
@@ -349,7 +353,7 @@ header.major:after {
     background: #F8F8FE;
 }
 .problem-evolution {
-    background: #FFEFEF;
+    background: #DFE0FA;
 }
 .cot {
     background: white;
@@ -602,7 +606,9 @@ section, .wrapper {
 }
 .gray-section-title {
     margin-bottom: 1.5em;
-    color: #D1D1D1;
+}
+.darkgray-section-title {
+    margin-bottom: 1.5em;
 }
 .pink-section-title {
     margin-bottom: 1.5em;
