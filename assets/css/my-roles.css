@@ -15,3 +15,13 @@
 .role-icon {
 	max-width: 30px;
 }
+.my-medium {
+	position: relative;
+	top: -10px; left: 10px;
+}
+
+@media screen and (max-width: 769px) {
+	.role {
+		padding-left: 0;
+	}
+}

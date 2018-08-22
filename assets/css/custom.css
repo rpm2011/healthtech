@@ -128,7 +128,7 @@ a:hover, a:focus {
 }
 .text-box {
     background: rgba(255,255,255,0.9);
-	padding: 10px;
+	padding: 10px !important;
 }
 .numbered {
     color: #FF9695;
