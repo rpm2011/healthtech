@@ -123,6 +123,20 @@ header p, p {
 a:hover, a:focus {
     color: #4F54FF !important;
 }
+.card-link {
+	-webkit-animation: lower 0.1s ease-out;
+	animation: lower 0.1s ease-out;
+	position: relative;
+	top: 0;
+}
+@-webkit-keyframes lower {
+    from {position: relative; top: -15px;}
+    to {position: relative; top: 0;}
+}
+@keyframes lower {
+    from {position: relative; top: -15px;}
+    to {position: relative; top: 0;}
+}
 .card-link:hover {
 	-webkit-animation: raise 0.2s ease-out;
 	animation: raise 0.2s ease-out;
