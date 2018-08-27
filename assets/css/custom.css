@@ -287,6 +287,9 @@ i {
 .banner-text {
     padding: 0 4em 0 4em
 }
+.hero-text {
+	padding-top: 60px !important;
+}
 .blurb {
     padding-top: 10px;
     padding-left: 2.5em;
@@ -719,7 +722,8 @@ ul.prototypes {
 }
 .card-box {
     position: relative;
-    top: 140vw;
+    top: 120vw;
+	padding-bottom: 40px;
 }
 .landing-bg-mobile {
     visibility: visible;
@@ -738,4 +742,7 @@ ul.prototypes {
 .new-line {
     display: inline;
 }
+	.landing-bg {
+		background-color: #fbe834;
+	}
 }
