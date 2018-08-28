@@ -1,143 +1,133 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 189.225 246.826">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #fff;
-      }
-
-      .cls-2 {
-        fill: #848484;
-        opacity: 0.4;
-      }
-
-      .cls-3 {
-        fill: #6fa4c1;
-      }
-
-      .cls-4 {
-        fill: #73bce4;
-      }
-
-      .cls-5 {
-        fill: none;
-        stroke: #5b879e;
-        stroke-linecap: round;
-      }
-
-      .cls-6 {
-        fill: rgba(91,135,158,0.31);
-      }
-
-      .cls-7 {
-        fill: #5b879e;
-      }
-
-      .cls-8 {
-        fill: #a5cce1;
-      }
-
-      .cls-9 {
-        fill: #dcf3ff;
-      }
-
-      .cls-10 {
-        fill: #595959;
-        font-size: 7px;
-        font-family: AdelleCondensed, Adelle;
-      }
-
-      .cls-11 {
-        font-size: 20px;
-        font-family: Avenir-Book, Avenir;
-      }
-
-      .cls-12 {
-        filter: url(#Rectangle_19);
-      }
-    </style>
-    <filter id="Rectangle_19" x="0" y="0" width="189.225" height="246.826" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-  </defs>
-  <g id="Group_27" data-name="Group 27" transform="translate(-26 -572.115)">
-    <g class="cls-12" transform="matrix(1, 0, 0, 1, 26, 572.12)">
-      <rect id="Rectangle_19-2" data-name="Rectangle 19" class="cls-1" width="171.225" height="228.826" rx="5" transform="translate(9 6)"/>
-    </g>
-    <g id="guilty_flu_" data-name="guilty flu " transform="translate(67.671 629.4)">
-      <ellipse id="Ellipse_28" data-name="Ellipse 28" class="cls-2" cx="40.991" cy="6.658" rx="40.991" ry="6.658" transform="translate(10.663 95.021)"/>
-      <ellipse id="Oval-4" class="cls-3" cx="36.117" cy="36.117" rx="36.117" ry="36.117" transform="translate(17.582 12.908)"/>
-      <ellipse id="Oval-4_1_" class="cls-4" cx="36.117" cy="36.117" rx="36.117" ry="36.117" transform="translate(17.582 16.389)"/>
-      <path id="Stroke-54" class="cls-5" d="M121.744,137.555a4.277,4.277,0,0,0-5.744-.914" transform="translate(-65.346 -76.475)"/>
-      <path id="Fill-60" class="cls-6" d="M119.826,141.289c-.87-.174-1.523-.653-1.436-1.088s.87-.653,1.741-.479,1.523.653,1.436,1.088S120.7,141.463,119.826,141.289Z" transform="translate(-66.692 -78.599)"/>
-      <g id="Group-45" transform="translate(39.675 46.067)">
-        <path id="Fill-39" class="cls-7" d="M54.028,3.3A1.828,1.828,0,1,1,52.2,5.128,1.811,1.811,0,0,1,54.028,3.3" transform="translate(-29.385 -1.516)"/>
-        <path id="Fill-41" class="cls-1" d="M5.4,2.812A1.828,1.828,0,1,0,3.569,4.639,1.839,1.839,0,0,0,5.4,2.812m1.349-.218a4.254,4.254,0,0,1-2.959,3.7A2.946,2.946,0,0,1,.741,5.64,2.7,2.7,0,0,1-.086,2.594C.349.767,1.437-.8,3.308-.8A3.381,3.381,0,0,1,6.746,2.594Z" transform="translate(0.23 0.8)"/>
-        <path id="Fill-41_1_" class="cls-1" d="M50.449,2.812a1.828,1.828,0,1,1,1.828,1.828,1.839,1.839,0,0,1-1.828-1.828M49.1,2.594a4.254,4.254,0,0,0,2.959,3.7,2.946,2.946,0,0,0,3.046-.653,2.7,2.7,0,0,0,.827-3.046C55.5.767,54.409-.8,52.538-.8A3.408,3.408,0,0,0,49.1,2.594Z" transform="translate(-27.634 0.8)"/>
-        <path id="Fill-43" class="cls-7" d="M6.128,3.3A1.828,1.828,0,1,1,4.3,5.128,1.839,1.839,0,0,1,6.128,3.3" transform="translate(-2.329 -1.516)"/>
-      </g>
-      <path id="Rectangle-3" class="cls-7" d="M80.7,102.264,92.928,99l-9.312,5.222Z" transform="translate(-45.407 -55.631)"/>
-      <path id="Rectangle-3_1_" class="cls-7" d="M149.228,102.164,137,98.9l9.312,5.222Z" transform="translate(-77.208 -55.575)"/>
-      <path id="Fill-5" class="cls-4" d="M141.626,210.787a1.282,1.282,0,0,1-1.088-.653c-3.307-6.614-.174-14.1-.044-14.4a1.249,1.249,0,0,1,1.61-.653,1.234,1.234,0,0,1,.653,1.61c-.044.087-2.828,6.788-.044,12.358a1.176,1.176,0,0,1-.566,1.61,1.159,1.159,0,0,1-.522.131" transform="translate(-78.354 -109.848)"/>
-      <path id="Fill-9" class="cls-4" d="M101.626,210.787a1.282,1.282,0,0,1-1.088-.653c-3.307-6.614-.174-14.1-.044-14.4a1.249,1.249,0,0,1,1.61-.653,1.234,1.234,0,0,1,.653,1.61c-.044.087-2.828,6.788-.044,12.358a1.176,1.176,0,0,1-.566,1.61,1.159,1.159,0,0,1-.522.131" transform="translate(-55.76 -109.848)"/>
-      <path id="Fill-23" class="cls-4" d="M88.26,226.07a1.263,1.263,0,0,1-.87-2.176,6.391,6.391,0,0,1,5.657-1.915c2.828.479,3.481,1.741,3.525,2.741a1.222,1.222,0,0,1-1.262,1.305H88.26Z" transform="translate(-48.964 -125.044)"/>
-      <path id="Fill-25" class="cls-4" d="M135.309,226.07H128.26a1.263,1.263,0,0,1-.87-2.176,6.391,6.391,0,0,1,5.657-1.915c2.828.479,3.481,1.741,3.525,2.741a1.235,1.235,0,0,1-1.262,1.349" transform="translate(-71.558 -125.044)"/>
-      <g id="Group-4" transform="matrix(0.719, -0.695, 0.695, 0.719, 19.217, 23.191)">
-        <path id="Rectangle-2" class="cls-8" d="M.587,0H1.24c.522,5.7.74,8.616.566,8.7a1.5,1.5,0,0,1-.87.174A1.5,1.5,0,0,1,.065,8.7C-.109,8.616.065,5.7.587,0Z" transform="translate(0.152 1.741)"/>
-        <circle id="Oval-5" class="cls-8" cx="1.088" cy="1.088" r="1.088" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_1_" transform="matrix(-0.719, -0.695, 0.695, -0.719, 23.643, 84.705)">
-        <path id="Rectangle-2_1_" class="cls-8" d="M.587,0H1.24c.522,5.7.74,8.616.566,8.7a1.5,1.5,0,0,1-.87.174A1.5,1.5,0,0,1,.065,8.7C-.109,8.572.065,5.657.587,0Z" transform="translate(0.152 1.784)"/>
-        <ellipse id="Oval-5_1_" class="cls-8" cx="1.088" cy="1.088" rx="1.088" ry="1.088" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_2_" transform="translate(96.356 38.621) rotate(63)">
-        <path id="Rectangle-2_2_" class="cls-8" d="M.587,0H1.24c.522,5.7.74,8.616.566,8.7a1.5,1.5,0,0,1-.87.174A1.5,1.5,0,0,1,.065,8.7C-.109,8.572.065,5.657.587,0Z" transform="translate(0.152 1.784)"/>
-        <ellipse id="Oval-5_2_" class="cls-8" cx="1.088" cy="1.088" rx="1.088" ry="1.088" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_3_" transform="translate(65.541 0) rotate(10)">
-        <path id="Rectangle-2_3_" class="cls-8" d="M1.114,0H2.332C3.377,10.7,3.681,16.144,3.377,16.362a3.047,3.047,0,0,1-1.654.3,2.824,2.824,0,0,1-1.61-.3C-.192,16.1.113,10.661,1.114,0Z" transform="translate(0.322 3.307)"/>
-        <ellipse id="Oval-5_3_" class="cls-8" cx="2.045" cy="2.045" rx="2.045" ry="2.045" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_4_" transform="translate(93.068 19.343) rotate(57)">
-        <path id="Rectangle-2_4_" class="cls-8" d="M1.132,0H2.351c1,10.7,1.349,16.144,1.044,16.362a3.047,3.047,0,0,1-1.654.3,2.824,2.824,0,0,1-1.61-.3C-.217,16.1.131,10.661,1.132,0Z" transform="translate(0.304 3.307)"/>
-        <ellipse id="Oval-5_4_" class="cls-8" cx="2.045" cy="2.045" rx="2.045" ry="2.045" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_5_" transform="matrix(0.259, -0.966, 0.966, 0.259, 1.884, 40.604)">
-        <path id="Rectangle-2_5_" class="cls-8" d="M1.132,0H2.394Q3.9,16.253,3.438,16.579a3.532,3.532,0,0,1-1.654.348,2.448,2.448,0,0,1-1.654-.348C-.217,16.362.131,10.835,1.132,0Z" transform="translate(0.304 3.394)"/>
-        <ellipse id="Oval-5_5_" class="cls-8" cx="2.089" cy="2.089" rx="2.089" ry="2.089" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_6_" transform="translate(22.798 7.006) rotate(-33)">
-        <path id="Rectangle-2_6_" class="cls-8" d="M1.132,0H2.35c1,10.7,1.349,16.144,1.044,16.362a3.047,3.047,0,0,1-1.654.3,2.824,2.824,0,0,1-1.61-.3C-.217,16.144.131,10.661,1.132,0Z" transform="translate(0.304 3.307)"/>
-        <ellipse id="Oval-5_6_" class="cls-8" cx="2.045" cy="2.045" rx="2.045" ry="2.045" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_7_" transform="translate(1.196 64.372) rotate(-107)">
-        <path id="Rectangle-2_7_" class="cls-8" d="M1.114,0H2.332C3.377,10.7,3.725,16.144,3.377,16.362a3.047,3.047,0,0,1-1.654.3,2.824,2.824,0,0,1-1.61-.3C-.192,16.144.113,10.7,1.114,0Z" transform="translate(0.322 3.307)"/>
-        <ellipse id="Oval-5_7_" class="cls-8" cx="2.045" cy="2.045" rx="2.045" ry="2.045" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_8_" transform="translate(105.085 53.186) rotate(97)">
-        <path id="Rectangle-2_8_" class="cls-8" d="M1.114,0H2.332c1,10.7,1.349,16.144,1.044,16.362a3.123,3.123,0,0,1-1.654.3,2.824,2.824,0,0,1-1.61-.3C-.192,16.144.113,10.661,1.114,0Z" transform="translate(0.322 3.307)"/>
-        <ellipse id="Oval-5_8_" class="cls-8" cx="2.045" cy="2.045" rx="2.045" ry="2.045" transform="translate(0 0)"/>
-      </g>
-      <g id="Group-4_9_" transform="matrix(-0.515, 0.857, -0.857, -0.515, 84.885, 77.823)">
-        <path id="Rectangle-2_9_" class="cls-8" d="M.668,0h.74c.609,6.4.827,9.66.609,9.747a1.956,1.956,0,0,1-1,.174,1.721,1.721,0,0,1-.957-.174C-.116,9.617.1,6.4.668,0Z" transform="translate(0.159 1.958)"/>
-        <ellipse id="Oval-5_9_" class="cls-8" cx="1.218" cy="1.218" rx="1.218" ry="1.218" transform="translate(0 0)"/>
-      </g>
-      <path id="Rectangle-5" class="cls-9" d="M43.611,143h64.4a2.619,2.619,0,0,1,2.611,2.611V166.5a2.619,2.619,0,0,1-2.611,2.611h-64.4A2.619,2.619,0,0,1,41,166.5V145.611A2.619,2.619,0,0,1,43.611,143Z" transform="translate(-22.983 -80.485)"/>
-      <g id="Group_17" data-name="Group 17" transform="translate(41.08 68.172)">
-        <text id="Guilty" class="cls-10" transform="translate(0 7)"><tspan x="0" y="0">Guilty</tspan></text>
-      </g>
-      <g id="Group-6" transform="translate(84.595 59.123)">
-        <path id="Fill-27" class="cls-4" d="M5.972,17.783c-.653-.131-1-.566-.783-1,1.175-2.437,2.828-4.439,3.264-7.833A7.462,7.462,0,0,0,5.145,1.944C4.753,1.6,5.406-.449,5.928-.71s0,.131.392.479C6.537-.014,10.5,3.206,10.671,7.6c.131,3-1.523,6.266-3.177,9.66a1.3,1.3,0,0,1-1.175.566A.848.848,0,0,1,5.972,17.783Z" transform="translate(-2.403 0.795)"/>
-        <path id="Fill-29" class="cls-4" d="M4.7,39.828a2.823,2.823,0,0,1-2.828,2.828A2.86,2.86,0,0,1-1,39.828,2.823,2.823,0,0,1,1.828,37,2.86,2.86,0,0,1,4.7,39.828" transform="translate(1 -20.553)"/>
-      </g>
-      <g id="Group-5" transform="translate(21.498 80.356) rotate(180)">
-        <path id="Fill-27_1_" class="cls-4" d="M2.654,2.176c3.438,2.437,5,4.439,4.787,6.092-.261,1.7-2.263,4.308-6.092,7.833a12.354,12.354,0,0,1,.218,1.305c0,.87-2,1.088-1.48,1.349a1.842,1.842,0,0,0,1.784-.131c.261-.218,7.093-5.352,7.746-10.792.261-2.089-1.48-4.308-5.222-6.745A3.353,3.353,0,0,0,2.654,0,6.9,6.9,0,0,0,2.654,2.176Z" transform="translate(0.392 2.828)"/>
-        <path id="Fill-29_1_" class="cls-4" d="M5.7,2.828A2.823,2.823,0,0,0,2.872,0,2.86,2.86,0,0,0,0,2.828,2.823,2.823,0,0,0,2.828,5.657,2.86,2.86,0,0,0,5.7,2.828" transform="translate(0 0)"/>
-      </g>
-    </g>
-    <text id="Seasonal_Wellness_Pr" data-name="Seasonal Wellness Pr" class="cls-11" transform="translate(82.756 779.236)"><tspan x="0" y="0">Problem</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 189.2 246.8" style="enable-background:new 0 0 189.2 246.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{opacity:0.4;fill:#848484;enable-background:new    ;}
+	.st2{fill:#6FA4C1;}
+	.st3{fill:#73BCE4;}
+	.st4{fill:none;stroke:#5B879E;stroke-linecap:round;}
+	.st5{fill:#5B879E;}
+	.st6{fill:#A5CCE1;}
+	.st7{fill:#DCF3FF;}
+	.st8{fill:#595959;}
+	.st9{font-family:'ArialMT';}
+	.st10{font-size:7px;}
+	.st11{font-family:'Avenir-Book';}
+	.st12{font-size:20px;}
+</style>
+<g id="Group_27" transform="translate(-26 -572.115)">
+	<g transform="matrix(1, 0, 0, 1, 26, 572.12)">
+		<path id="Rectangle_19-2" class="st0" d="M14,6h161.2c2.8,0,5,2.2,5,5v218.8c0,2.8-2.2,5-5,5H14c-2.8,0-5-2.2-5-5V11
+			C9,8.2,11.2,6,14,6z"/>
+	</g>
+	<g id="guilty_flu_" transform="translate(67.671 629.4)">
+		<ellipse id="Ellipse_28" class="st1" cx="51.7" cy="101.7" rx="41" ry="6.7"/>
+		<ellipse id="Oval-4" class="st2" cx="53.7" cy="49" rx="36.1" ry="36.1"/>
+		<ellipse id="Oval-4_1_" class="st3" cx="53.7" cy="52.5" rx="36.1" ry="36.1"/>
+		<path id="Stroke-54" class="st4" d="M56.4,61.1c-1.4-1.8-3.9-2.2-5.7-0.9"/>
+		<path id="Fill-60" d="M53.1,62.7c-0.9-0.2-1.5-0.7-1.4-1.1s0.9-0.7,1.7-0.5s1.5,0.7,1.4,1.1S54,62.9,53.1,62.7z"/>
+		<g id="Group-45" transform="translate(39.675 46.067)">
+			<path id="Fill-39" class="st5" d="M24.6,1.8c1,0,1.8,0.8,1.8,1.8c0,1-0.8,1.8-1.8,1.8c-1,0-1.8-0.8-1.8-1.8c0,0,0,0,0,0
+				C22.8,2.6,23.6,1.8,24.6,1.8C24.6,1.8,24.6,1.8,24.6,1.8"/>
+			<path id="Fill-41" class="st0" d="M5.6,3.6c0-1-0.8-1.8-1.8-1.8C2.8,1.8,2,2.6,2,3.6c0,1,0.8,1.8,1.8,1.8
+				C4.8,5.4,5.6,4.6,5.6,3.6 M7,3.4C6.8,5.1,5.7,6.6,4,7.1C3,7.5,1.8,7.2,1,6.4c-0.9-0.7-1.2-2-0.8-3C0.6,1.6,1.7,0,3.5,0
+				C5.4,0,6.9,1.5,7,3.4C7,3.3,7,3.4,7,3.4L7,3.4z"/>
+			<path id="Fill-41_1_" class="st0" d="M22.8,3.6c0-1,0.8-1.8,1.8-1.8c1,0,1.8,0.8,1.8,1.8s-0.8,1.8-1.8,1.8l0,0
+				C23.6,5.4,22.8,4.6,22.8,3.6 M21.5,3.4c0.1,1.7,1.3,3.2,3,3.7c1.1,0.4,2.2,0.1,3-0.7c0.9-0.7,1.2-2,0.8-3C27.9,1.6,26.8,0,24.9,0
+				C23,0,21.5,1.5,21.5,3.4C21.5,3.4,21.5,3.4,21.5,3.4z"/>
+			<path id="Fill-43" class="st5" d="M3.8,1.8c1,0,1.8,0.8,1.8,1.8S4.8,5.4,3.8,5.4S2,4.6,2,3.6l0,0C2,2.6,2.8,1.8,3.8,1.8"/>
+		</g>
+		<path id="Rectangle-3" class="st5" d="M35.3,46.6l12.2-3.3l-9.3,5.2L35.3,46.6z"/>
+		<path id="Rectangle-3_1_" class="st5" d="M72,46.6l-12.2-3.3l9.3,5.2L72,46.6z"/>
+		<path id="Fill-5" class="st3" d="M63.3,100.9c-0.5,0-0.9-0.3-1.1-0.7c-3.3-6.6-0.2-14.1,0-14.4c0.3-0.6,1-0.9,1.6-0.7
+			c0.6,0.3,0.9,1,0.7,1.6c0,0.1-2.8,6.8,0,12.4c0.3,0.6,0.1,1.3-0.5,1.6c0,0,0,0-0.1,0C63.6,100.9,63.5,100.9,63.3,100.9"/>
+		<path id="Fill-9" class="st3" d="M45.9,100.9c-0.5,0-0.9-0.3-1.1-0.7c-3.3-6.6-0.2-14.1,0-14.4c0.3-0.6,1-0.9,1.6-0.7
+			c0.6,0.3,0.9,1,0.7,1.6c0,0.1-2.8,6.8,0,12.4c0.3,0.6,0.1,1.3-0.5,1.6c0,0,0,0-0.1,0C46.2,100.9,46,100.9,45.9,100.9"/>
+		<path id="Fill-23" class="st3" d="M39.3,101c-0.7,0-1.3-0.6-1.3-1.3c0-0.3,0.1-0.7,0.4-0.9c1.5-1.5,3.6-2.3,5.7-1.9
+			c2.8,0.5,3.5,1.7,3.5,2.7c0,0.7-0.5,1.3-1.1,1.3c0,0-0.1,0-0.1,0L39.3,101L39.3,101z"/>
+		<path id="Fill-25" class="st3" d="M63.8,101h-7c-0.7,0-1.3-0.6-1.3-1.3c0-0.3,0.1-0.7,0.4-0.9c1.5-1.5,3.6-2.3,5.7-1.9
+			c2.8,0.5,3.5,1.7,3.5,2.7c0.1,0.7-0.4,1.3-1.1,1.3C63.8,101,63.8,101,63.8,101"/>
+		<g id="Group-4" transform="matrix(0.719, -0.695, 0.695, 0.719, 19.217, 23.191)">
+			<path id="Rectangle-2" class="st6" d="M0.7,1.7h0.7c0.5,5.7,0.7,8.6,0.6,8.7c-0.3,0.1-0.6,0.2-0.9,0.2c-0.3,0-0.6,0-0.9-0.2
+				C0,10.4,0.2,7.4,0.7,1.7z"/>
+			<circle id="Oval-5" class="st6" cx="1.1" cy="1.1" r="1.1"/>
+		</g>
+		<g id="Group-4_1_" transform="matrix(-0.719, -0.695, 0.695, -0.719, 23.643, 84.705)">
+			<path id="Rectangle-2_1_" class="st6" d="M0.7,1.8h0.7c0.5,5.7,0.7,8.6,0.6,8.7c-0.3,0.1-0.6,0.2-0.9,0.2c-0.3,0-0.6,0-0.9-0.2
+				C0,10.4,0.2,7.4,0.7,1.8z"/>
+			
+				<ellipse id="Oval-5_1_" transform="matrix(0.719 -0.695 0.695 0.719 -0.4504 1.0619)" class="st6" cx="1.1" cy="1.1" rx="1.1" ry="1.1"/>
+		</g>
+		<g id="Group-4_2_" transform="translate(96.356 38.621) rotate(63)">
+			<path id="Rectangle-2_2_" class="st6" d="M0.7,1.8l0.7,0c0.5,5.7,0.7,8.6,0.6,8.7c-0.3,0.1-0.6,0.2-0.9,0.2c-0.3,0-0.6,0-0.9-0.2
+				C0,10.4,0.2,7.4,0.7,1.8z"/>
+			
+				<ellipse id="Oval-5_2_" transform="matrix(-0.454 0.891 -0.891 -0.454 2.5514 0.6125)" class="st6" cx="1.1" cy="1.1" rx="1.1" ry="1.1"/>
+		</g>
+		<g id="Group-4_3_" transform="translate(65.541 0) rotate(10)">
+			<path id="Rectangle-2_3_" class="st6" d="M1.4,3.3l1.2,0c1,10.7,1.3,16.1,1,16.4C3.2,19.9,2.6,20,2,20c-0.6,0.1-1.1,0-1.6-0.3
+				C0.1,19.4,0.4,14,1.4,3.3z"/>
+			
+				<ellipse id="Oval-5_3_" transform="matrix(-0.9848 0.1737 -0.1737 -0.9848 4.414 3.7038)" class="st6" cx="2" cy="2" rx="2" ry="2"/>
+		</g>
+		<g id="Group-4_4_" transform="translate(93.068 19.343) rotate(57)">
+			<path id="Rectangle-2_4_" class="st6" d="M1.4,3.3l1.2,0c1,10.7,1.3,16.1,1,16.4C3.2,19.9,2.6,20,2,20c-0.6,0.1-1.1,0-1.6-0.3
+				C0.1,19.4,0.4,14,1.4,3.3z"/>
+			
+				<ellipse id="Oval-5_4_" transform="matrix(-0.5446 0.8387 -0.8387 -0.5446 4.8739 1.4437)" class="st6" cx="2" cy="2" rx="2" ry="2"/>
+		</g>
+		<g id="Group-4_5_" transform="matrix(0.259, -0.966, 0.966, 0.259, 1.884, 40.604)">
+			<path id="Rectangle-2_5_" class="st6" d="M1.4,3.4h1.3c1,10.8,1.4,16.4,1,16.6c-0.5,0.2-1.1,0.4-1.7,0.3c-0.6,0.1-1.2,0-1.7-0.3
+				C0.1,19.8,0.4,14.2,1.4,3.4z"/>
+			
+				<ellipse id="Oval-5_5_" transform="matrix(-0.259 -0.9659 0.9659 -0.259 0.6123 4.6477)" class="st6" cx="2.1" cy="2.1" rx="2.1" ry="2.1"/>
+		</g>
+		<g id="Group-4_6_" transform="translate(22.798 7.006) rotate(-33)">
+			<path id="Rectangle-2_6_" class="st6" d="M1.4,3.3l1.2,0c1,10.7,1.3,16.1,1,16.4C3.2,19.9,2.6,20,2,20c-0.6,0.1-1.1,0-1.6-0.3
+				C0.1,19.5,0.4,14,1.4,3.3z"/>
+			
+				<ellipse id="Oval-5_6_" transform="matrix(-0.8387 -0.5446 0.5446 -0.8387 2.6463 4.8739)" class="st6" cx="2" cy="2" rx="2" ry="2"/>
+		</g>
+		<g id="Group-4_7_" transform="translate(1.196 64.372) rotate(-107)">
+			<path id="Rectangle-2_7_" class="st6" d="M1.4,3.3l1.2,0c1,10.7,1.4,16.1,1,16.4C3.2,19.9,2.6,20,2,20c-0.6,0.1-1.1,0-1.6-0.3
+				C0.1,19.5,0.4,14,1.4,3.3z"/>
+			
+				<ellipse id="Oval-5_7_" transform="matrix(0.2924 -0.9563 0.9563 0.2924 -0.5085 3.4027)" class="st6" cx="2" cy="2" rx="2" ry="2"/>
+		</g>
+		<g id="Group-4_8_" transform="translate(105.085 53.186) rotate(97)">
+			<path id="Rectangle-2_8_" class="st6" d="M1.4,3.3l1.2,0c1,10.7,1.3,16.1,1,16.4C3.2,19.9,2.6,20,2,20c-0.6,0.1-1.1,0-1.6-0.3
+				C0.1,19.5,0.4,14,1.4,3.3z"/>
+			
+				<ellipse id="Oval-5_8_" transform="matrix(0.1219 0.9925 -0.9925 0.1219 3.8255 -0.234)" class="st6" cx="2" cy="2" rx="2" ry="2"/>
+		</g>
+		<g id="Group-4_9_" transform="matrix(-0.515, 0.857, -0.857, -0.515, 84.885, 77.823)">
+			<path id="Rectangle-2_9_" class="st6" d="M0.8,2l0.7,0c0.6,6.4,0.8,9.7,0.6,9.7c-0.3,0.1-0.7,0.2-1,0.2c-0.3,0-0.7,0-1-0.2
+				C0,11.6,0.3,8.4,0.8,2z"/>
+			
+				<ellipse id="Oval-5_9_" transform="matrix(0.5151 0.8571 -0.8571 0.5151 1.6346 -0.4534)" class="st6" cx="1.2" cy="1.2" rx="1.2" ry="1.2"/>
+		</g>
+		<path id="Rectangle-5" class="st7" d="M20.6,62.5H85c1.4,0,2.6,1.2,2.6,2.6V86c0,1.4-1.2,2.6-2.6,2.6H20.6c-1.4,0-2.6-1.2-2.6-2.6
+			V65.1C18,63.7,19.2,62.5,20.6,62.5z"/>
+		<g id="Group_17" transform="translate(41.08 68.172)">
+			<text transform="matrix(1 0 0 1 7.080078e-06 7)" class="st8 st9 st10">Guilty</text>
+		</g>
+		<g id="Group-6" transform="translate(84.595 59.123)">
+			<path id="Fill-27" class="st3" d="M3.6,18.6c-0.7-0.1-1-0.6-0.8-1C4,15.1,5.6,13.1,6,9.7c0.3-2.8-1-5.5-3.3-7
+				C2.3,2.4,3,0.3,3.5,0.1s0,0.1,0.4,0.5C4.1,0.8,8.1,4,8.3,8.4c0.1,3-1.5,6.3-3.2,9.7c-0.3,0.4-0.7,0.6-1.2,0.6
+				C3.8,18.6,3.7,18.6,3.6,18.6z"/>
+			<path id="Fill-29" class="st3" d="M5.7,19.3c0,1.6-1.3,2.8-2.8,2.8c0,0,0,0,0,0c-1.6,0-2.9-1.3-2.9-2.8c0-1.6,1.3-2.8,2.8-2.8
+				c0,0,0,0,0,0C4.4,16.4,5.7,17.7,5.7,19.3"/>
+		</g>
+		<g id="Group-5" transform="translate(21.498 80.356) rotate(180)">
+			<path id="Fill-27_1_" class="st3" d="M3,5c3.4,2.4,5,4.4,4.8,6.1c-0.3,1.7-2.3,4.3-6.1,7.8c0.1,0.4,0.2,0.9,0.2,1.3
+				c0,0.9-2,1.1-1.5,1.3c0.6,0.3,1.3,0.2,1.8-0.1c0.3-0.2,7.1-5.4,7.7-10.8c0.3-2.1-1.5-4.3-5.2-6.7C4.3,3.4,3.7,3,3,2.8
+				C2.9,3.5,2.9,4.3,3,5z"/>
+			<path id="Fill-29_1_" class="st3" d="M5.7,2.8C5.7,1.3,4.4,0,2.9,0c0,0,0,0,0,0C1.3,0,0,1.3,0,2.8c0,1.6,1.3,2.8,2.8,2.8
+				c0,0,0,0,0,0C4.4,5.7,5.7,4.4,5.7,2.8"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 82.756 779.236)" class="st11 st12">Problem</text>
+</g>
 </svg>
